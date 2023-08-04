@@ -18,7 +18,7 @@ I received a [comment](https://www.reddit.com/r/FPGA/comments/15g64oj/comment/ju
 
 ## Draft Roadmap
 
-### FPGA Design Engineer
+### Implementation Engineer
 
 As an FPGA (Field Programmable Gate Array) implement engineer, there are several important topics to be well-versed in:
 
