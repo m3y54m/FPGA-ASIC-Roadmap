@@ -6,6 +6,12 @@ According to the feedback I received for the [Embedded Systems Engineering Roadm
 
 **⚠️ Disclaimer:** The contents of this repository comprise a compilation of information gathered from diverse sources for the purpose of designing the roadmap. Currently, no refinement or selection has been conducted on this information. **If you require a roadmap immediately, the content in this repository is not yet suitable for your use.** However, if you are an expert or experienced individual in the field of FPGA and ASIC design, I kindly request your comments and suggestions on this roadmap.
 
+**What topics should be included in the FPGA / ASIC design roadmap?**
+
+**What are the best resources you know to learn each topic in the roadmap?**
+
+Feel free to [open an issue](https://github.com/m3y54m/FPGA-ASIC-Roadmap/issues) or [make a pull request](https://github.com/m3y54m/FPGA-ASIC-Roadmap/pulls) and express your ideas.
+
 The first step to building a roadmap is to gather information, categorize it under different titles, and determine the importance of each title. So I started [a discussion about the roadmap](https://www.reddit.com/r/FPGA/comments/15g64oj/fpga_asic_design_roadmap/?utm_source=share&utm_medium=web2x&context=3) on Reddit:
 
 I received a [comment](https://www.reddit.com/r/FPGA/comments/15g64oj/comment/juir34n/?utm_source=share&utm_medium=web2x&context=3) from [u/No_Delivery_1049](https://www.reddit.com/user/No_Delivery_1049/) that could serve as a good guidline:
