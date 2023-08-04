@@ -34,33 +34,19 @@ Understanding of various FPGA design techniques and best practices is important.
 
 FPGA design methodologies encompass a broad range of techniques and strategies used in the process of designing and implementing digital logic on FPGA devices. Here are some key methods:
 
--  **RTL Design**:
-
-Register Transfer Level (RTL) design is a method where the digital system is described at a high level in terms of data flow between registers and the logical operations performed on the data. This allows the designer to focus on the logic functionality and data flow, rather than the specifics of how each gate is connected.
+-  **RTL Design**: Register Transfer Level (RTL) design is a method where the digital system is described at a high level in terms of data flow between registers and the logical operations performed on the data. This allows the designer to focus on the logic functionality and data flow, rather than the specifics of how each gate is connected.
     
--  **High-Level Synthesis (HLS)**:
-
-HLS is a design methodology where the digital system is described in a high-level programming language such as C or C++, and then automatically converted into RTL code by an HLS tool. This approach can be faster and easier than writing RTL code directly, especially for complex algorithms.
+-  **High-Level Synthesis (HLS)**: HLS is a design methodology where the digital system is described in a high-level programming language such as C or C++, and then automatically converted into RTL code by an HLS tool. This approach can be faster and easier than writing RTL code directly, especially for complex algorithms.
     
--  **IP Core Based Design**:
-
-IP (Intellectual Property) cores are pre-designed circuit blocks that can be reused in multiple designs. Using IP cores can significantly speed up the design process and improve the reliability of the design, since the IP cores have been pre-verified.
+-  **IP Core Based Design**: IP (Intellectual Property) cores are pre-designed circuit blocks that can be reused in multiple designs. Using IP cores can significantly speed up the design process and improve the reliability of the design, since the IP cores have been pre-verified.
     
--  **Hardware-Software Co-Design**:
-
-In many FPGA applications, a portion of the system functionality is implemented in software running on an embedded processor, while other portions are implemented in custom hardware on the FPGA. Hardware-software co-design involves designing the hardware and software components together to achieve the best overall system performance.
+-  **Hardware-Software Co-Design**: In many FPGA applications, a portion of the system functionality is implemented in software running on an embedded processor, while other portions are implemented in custom hardware on the FPGA. Hardware-software co-design involves designing the hardware and software components together to achieve the best overall system performance.
     
--  **Design for Test (DFT)**:
-
-This is a design methodology where testability features are added to the hardware design to make it easier to test and debug. This might include adding scan chains or built-in self-test (BIST) capabilities.
+-  **Design for Test (DFT)**: This is a design methodology where testability features are added to the hardware design to make it easier to test and debug. This might include adding scan chains or built-in self-test (BIST) capabilities.
     
--  **Timing-Driven Design**:
-
-This design methodology prioritizes meeting timing constraints. This may involve strategies such as pipelining to increase clock speed, carefully partitioning the design to reduce routing congestion, or using timing constraints files to guide the place-and-route process.
+-  **Timing-Driven Design**: This design methodology prioritizes meeting timing constraints. This may involve strategies such as pipelining to increase clock speed, carefully partitioning the design to reduce routing congestion, or using timing constraints files to guide the place-and-route process.
     
--  **Resource-Optimized Design**:
-
-This involves making the most efficient use of FPGA resources such as logic blocks, DSP blocks, and memory blocks. It might involve strategies such as sharing resources between multiple functions, or optimizing the logic to reduce the number of logic blocks used.
+-  **Resource-Optimized Design**: This involves making the most efficient use of FPGA resources such as logic blocks, DSP blocks, and memory blocks. It might involve strategies such as sharing resources between multiple functions, or optimizing the logic to reduce the number of logic blocks used.
 
 These methodologies are not mutually exclusive and can often be used together in the same design. The appropriate methodology to use depends on the specific design goals and constraints.
 
