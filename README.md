@@ -1,12 +1,12 @@
-# FPGA / ASIC Engineering Roadmap
+# FPGA Engineering Roadmap
 
 **🚧 Under Construction!**
 
-According to the feedback I received for the [Embedded Systems Engineering Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap) and due to my own interest, I want to create a separate roadmap specifically for FPGA / ASIC design in this repository. 
+According to the feedback I received for the [Embedded Systems Engineering Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap) and due to my own interest, I want to create a separate roadmap specifically for FPGA design in this repository. 
 
 **⚠️ Disclaimer:** The contents of this repository comprise a compilation of information gathered from diverse sources for the purpose of designing the roadmap. Currently, no refinement or selection has been conducted on this information. **If you require a roadmap immediately, the content in this repository is not yet suitable for your use.** However, if you are an expert or experienced individual in the field of FPGA and ASIC design, I kindly request your comments and suggestions on this roadmap.
 
-**What topics should be included in the FPGA / ASIC design roadmap?**
+**What topics should be included in the FPGA design roadmap?**
 
 **What are the best resources you know to learn each topic in the roadmap?**
 
