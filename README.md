@@ -1,4 +1,4 @@
-# FPGA Engineering Roadmap
+# FPGA / ASIC Engineering Roadmap
 
 **🚧 Under Construction!**
 
@@ -6,7 +6,7 @@ According to the feedback I received for the [Embedded Systems Engineering Roadm
 
 **⚠️ Disclaimer:** The contents of this repository comprise a compilation of information gathered from diverse sources for the purpose of designing the roadmap. Currently, no refinement or selection has been conducted on this information. **If you require a roadmap immediately, the content in this repository is not yet suitable for your use.** However, if you are an expert or experienced individual in the field of FPGA and ASIC design, I kindly request your comments and suggestions on this roadmap.
 
-**What topics should be included in the FPGA design roadmap?**
+**What topics should be included in the FPGA / ASIC design roadmap?**
 
 **What are the best resources you know to learn each topic in the roadmap?**
 
@@ -16,7 +16,7 @@ The first step to building a roadmap is to gather information, categorize it und
 
 I received a [comment](https://www.reddit.com/r/FPGA/comments/15g64oj/comment/juir34n/?utm_source=share&utm_medium=web2x&context=3) from [u/No_Delivery_1049](https://www.reddit.com/user/No_Delivery_1049/) that could serve as a good guidline:
 
-## Draft Roadmap
+## Roadmap
 
 ### Implementation Engineer
 
@@ -147,6 +147,11 @@ Familiarity with relevant industry standards can be important, especially in fie
 Understanding the overall process of design, from specification to synthesis and place-and-route, is helpful in order to interface effectively with the design team.
 
 **Both implementation and verification engineer need to be aware of requirements, architecture and interconnect standards and interfaces.**
+
+## Learning Resources
+
+- [FPGA 4 Fun](https://www.fpga4fun.com/)
+- [Doulos - Global Independent Leaders in Design and Verification KnowHow](https://www.doulos.com/)
 
 
 
