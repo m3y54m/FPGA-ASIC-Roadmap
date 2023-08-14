@@ -68,6 +68,9 @@ Register Transfer Level (RTL) design is a method where the digital system is des
 ##### High-Level Synthesis (HLS)
 
 HLS is a design methodology where the digital system is described in a high-level programming language such as C or C++, and then automatically converted into RTL code by an HLS tool. This approach can be faster and easier than writing RTL code directly, especially for complex algorithms.
+
+- [High-Level Synthesis Made Easy: Synthesizing Behavioral Descriptions directly into Hardware Circuits](https://www.hlsbook.com/)
+- [High-Level Synthesis Blue Book](https://hlsbluebook.org/)
     
 ##### IP Core Based Design
 
