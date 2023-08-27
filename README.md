@@ -25,10 +25,11 @@ Special thanks to [u/No_Delivery_1049](https://www.reddit.com/user/No_Delivery_1
 
 ## Learning Resources
 
+- [Introduction to FPGA](https://youtube.com/playlist?list=PLEBQazB0HUyT1WmMONxRZn9NmQ_9CIKhb)
 - [FPGA 4 Fun](https://www.fpga4fun.com/)
 - [Doulos - Global Independent Leaders in Design and Verification KnowHow](https://www.doulos.com/)
-- [Introduction to FPGA](https://youtube.com/playlist?list=PLEBQazB0HUyT1WmMONxRZn9NmQ_9CIKhb)
 - [nandland (YouTube Channel)](https://www.youtube.com/@Nandland)
+- [Learning FPGA, yosys, nextpnr, and RISC-V](https://github.com/BrunoLevy/learn-fpga)
 - [FPGA Fundamentals](https://nandland.com/fpga-101/)
 - [Udemy – FPGA Embedded Design, Part 1 - Verilog](https://www.udemy.com/course/fpga-embedded-design-verilog/)
 - [Udemy – FPGA Embedded Design, Part 2 - Basic FPGA Training](https://www.udemy.com/course/fpga-embedded-design-fpgas/)
