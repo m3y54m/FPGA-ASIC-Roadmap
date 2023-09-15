@@ -2,9 +2,9 @@
 
 **🚧 Under Construction!**
 
-According to the feedback I received for the [Embedded Systems Engineering Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap) and due to my own interest, I want to create a separate roadmap specifically for FPGA design in this repository. 
+According to the positive feedback I received for the [Embedded Systems Engineering Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap) and due to my own interest in FPGA, I want to create a separate roadmap specifically for FPGA design in this repository. 
 
-**⚠️ Disclaimer:** The contents of this repository comprise a compilation of information gathered from diverse sources for the purpose of designing the roadmap. Currently, no refinement or selection has been conducted on this information. **If you require a roadmap immediately, the content in this repository is not yet suitable for your use.**
+**⚠️ Disclaimer:** The contents of this repository consist of a collection of information gathered from various sources to create the roadmap. At present, no sorting or filtering has been done on this information. **If you require a complete roadmap now, the contents in this repository might not yet suitable for you.**
 
 
 ## Contribution
@@ -25,26 +25,37 @@ Special thanks to [u/No_Delivery_1049](https://www.reddit.com/user/No_Delivery_1
 
 ## Learning Resources
 
-- [Introduction to FPGA](https://youtube.com/playlist?list=PLEBQazB0HUyT1WmMONxRZn9NmQ_9CIKhb)
+- [Introduction to FPGA - Shawn Hymel (YouTube Playlist)](https://youtube.com/playlist?list=PLEBQazB0HUyT1WmMONxRZn9NmQ_9CIKhb)
+- [FPGA 101 - Nandland](https://nandland.com/fpga-101/)
+- [Nandland (YouTube Channel)](https://www.youtube.com/@Nandland)
 - [FPGA 4 Fun](https://www.fpga4fun.com/)
-- [Doulos - Global Independent Leaders in Design and Verification KnowHow](https://www.doulos.com/)
-- [nandland (YouTube Channel)](https://www.youtube.com/@Nandland)
+- [VHDLwhiz - Basic VHDL Tutorials](https://vhdlwhiz.com/basic-vhdl-tutorials/)
+- [VHDLwhiz.com (YouTube Channel)](https://www.youtube.com/@VHDLwhiz)
+- [HDLBits — Verilog Practice](https://hdlbits.01xz.net/wiki/Main_Page)
+- [FPGA designs with Verilog](https://verilogguide.readthedocs.io/en/latest/index.html)
+- [EDA Playground](https://www.edaplayground.com/)
+- [FPGAs for Beginners (YouTube Channel)](https://www.youtube.com/@FPGAsforBeginners)
+- [asic-world.com](https://www.asic-world.com/)
+- [Verilog, Formal Verification and Verilator Beginner's Tutorial](https://zipcpu.com/tutorial/)
+- [controlpaths - Blogs in control and signal processing](https://www.controlpaths.com/)
 - [Learning FPGA, yosys, nextpnr, and RISC-V](https://github.com/BrunoLevy/learn-fpga)
-- [FPGA Fundamentals](https://nandland.com/fpga-101/)
+
 - [Udemy – FPGA Embedded Design, Part 1 - Verilog](https://www.udemy.com/course/fpga-embedded-design-verilog/)
 - [Udemy – FPGA Embedded Design, Part 2 - Basic FPGA Training](https://www.udemy.com/course/fpga-embedded-design-fpgas/)
 - [Udemy – FPGA Embedded Design, Part 3 - EDA Tools](https://www.udemy.com/course/fpga-embedded-design-eda-tools/)
 - [Udemy – FPGA Embedded Design, Part 4 - Microprocessor Design](https://www.udemy.com/course/fpga-embedded-design-cpu/)
+  
+- [Doulos - Global Independent Leaders in Design and Verification KnowHow](https://www.doulos.com/)
+- [Home of MicroZed Chronicles, Blogs on AMD, Intel, Lattice FPGA](https://www.adiuvoengineering.com/)
+
+  
+## Projects
+
+- [AMD Based FPGA Projects - Whitney Knitter](https://hackster.io/whitney-knitter)
+- [AMD Based FPGA Projects - Adam Taylor](https://www.hackster.io/adam-taylor)
 - [RISC-V Single Cycle Core in Verilog](https://www.youtube.com/playlist?list=PL5AmAh9QoSK7Fwk9vOJu-3VqBng_HjGFc)
 - [SPI Project in FPGA - Ambient Light Sensor](https://youtube.com/playlist?list=PLnAoag7Ew-vq5kOyfyNN50xL718AtLoCQ)
-- [FPGA designs with Verilog](https://verilogguide.readthedocs.io/en/latest/index.html)
-- [HDLBits — Verilog Practice](https://hdlbits.01xz.net/wiki/Main_Page)
-- [EDA Playground](https://www.edaplayground.com/)
-- [FPGAs for Beginners (YouTube Channel)](https://www.youtube.com/@FPGAsforBeginners)
-- [Basic VHDL Tutorials](https://vhdlwhiz.com/basic-vhdl-tutorials/)
-- [VHDLwhiz.com (YouTube Channel)](https://www.youtube.com/@VHDLwhiz)
-- [asic-world.com](https://www.asic-world.com/)
-- [Verilog, Formal Verification and Verilator Beginner's Tutorial](https://zipcpu.com/tutorial/)
+
 
 ## Roadmap
 
