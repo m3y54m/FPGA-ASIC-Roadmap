@@ -53,9 +53,7 @@ Special thanks to [u/No_Delivery_1049](https://www.reddit.com/user/No_Delivery_1
 
 ## Roadmap
 
-### Implementation Engineer
-
-As an FPGA (Field Programmable Gate Array) implement engineer, there are several important topics to be well-versed in:
+### Common Skills
 
 #### Hardware Description Languages (HDLs):
 
@@ -65,7 +63,36 @@ Knowledge of VHDL and/or Verilog is crucial as they're commonly used to design a
 - [VHDLwhiz.com (YouTube Channel)](https://www.youtube.com/@VHDLwhiz)
 - [HDLBits — Verilog Practice](https://hdlbits.01xz.net/wiki/Main_Page)
 - [FPGA designs with Verilog](https://verilogguide.readthedocs.io/en/latest/index.html)
+
+#### Digital System Design
+
+Fundamental concepts in digital system design like logic gates, finite-state machines, and memory architectures.
     
+#### Computer Architecture
+
+Deep understanding of how CPUs and memory systems work. This can be extended to specialized architectures, such as Graphics Processing Units (GPUs) or custom accelerator designs.
+
+#### Test and Debugging Techniques
+
+Knowledge of simulation tools, testbenches, and hardware debugging techniques.
+
+#### Scripting Languages
+
+Languages such as TCL, Python, Perl, or Shell scripting are often used to automate tasks in the verification process.
+    
+#### Version Control
+
+Familiarity with systems like Git or Subversion is important for managing code and tracking changes.
+
+
+**Both implementation and verification engineer need to be aware of requirements, architecture and interconnect standards and interfaces.**
+
+----------------
+
+### Implementation Engineer
+
+As an FPGA (Field Programmable Gate Array) implement engineer, there are several important topics to be well-versed in:
+
 #### FPGA Design Methodologies:
 
 Understanding of various FPGA design techniques and best practices is important.
@@ -106,14 +133,6 @@ This involves making the most efficient use of FPGA resources such as logic bloc
 
 These methodologies are not mutually exclusive and can often be used together in the same design. The appropriate methodology to use depends on the specific design goals and constraints.
 
-#### Digital System Design
-
-Fundamental concepts in digital system design like logic gates, finite-state machines, and memory architectures.
-    
-#### Computer Architecture
-
-Deep understanding of how CPUs and memory systems work. This can be extended to specialized architectures, such as Graphics Processing Units (GPUs) or custom accelerator designs.
-    
 #### Timing Analysis
 
 Proficiency in handling setup and hold times, clock domain crossings, and other timing-related issues.
@@ -136,35 +155,19 @@ Techniques to optimize the power consumption and manage heat dissipation.
 
 Including proficiency in languages such as C/C++, Python, and knowing how to work with software drivers for hardware interfaces.
     
-#### Test and Debugging Techniques
-
-Knowledge of simulation tools, testbenches, and hardware debugging techniques.
-    
 #### FPGA Toolchain
 
 Understanding of specific FPGA toolchains like Xilinx Vivado, Intel Quartus, etc.
-    
-#### Version Control
-
-Experience with version control systems like Git is often necessary for collaborative work.
 
 ----------
 
 ### Verification Engineer
 
 The other side of the coin is the verification engineer they play a crucial role in the development of hardware and software systems, ensuring the design meets the specified requirements. Here are several important subjects and topics that a Verification Engineer should know:
-
-#### Hardware Description Languages (HDLs)
-
-Verification engineers should be well-versed in VHDL and/or Verilog.
     
 #### Hardware Verification Languages (HVLs)
 
 These include SystemVerilog, which is commonly used for hardware verification, and others like Property Specification Language (PSL).
-    
-#### Understanding of Digital and Computer Architecture
-
-A strong grasp of digital electronics and computer architecture is necessary in order to understand the systems being verified.
     
 #### Testbench Creation
 
@@ -185,18 +188,6 @@ Including equivalence checking and model checking.
 - [Verilog, Formal Verification and Verilator Beginner's Tutorial](https://zipcpu.com/tutorial/)
 - [11 Myths About Formal Verification](https://www.electronicdesign.com/technologies/eda/article/21807132/11-myths-about-formal-verification)
     
-#### Debugging and Troubleshooting
-
-These skills are critical for identifying and resolving issues that come up during verification.
-    
-#### Scripting Languages
-
-Languages such as TCL, Python, Perl, or Shell scripting are often used to automate tasks in the verification process.
-    
-#### Version Control Systems
-
-Familiarity with systems like Git or Subversion is important for managing code and tracking changes.
-    
 #### Industry Standards
 
 Familiarity with relevant industry standards can be important, especially in fields like telecommunications or automotive.
@@ -206,5 +197,3 @@ Familiarity with relevant industry standards can be important, especially in fie
 Understanding the overall process of design, from specification to synthesis and place-and-route, is helpful in order to interface effectively with the design team.
 
 ----------
-
-**Both implementation and verification engineer need to be aware of requirements, architecture and interconnect standards and interfaces.**
