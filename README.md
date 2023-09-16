@@ -183,6 +183,7 @@ This is an industry-standard methodology for verification of hardware designs.
 Including equivalence checking and model checking.
 
 - [Verilog, Formal Verification and Verilator Beginner's Tutorial](https://zipcpu.com/tutorial/)
+- [11 Myths About Formal Verification](https://www.electronicdesign.com/technologies/eda/article/21807132/11-myths-about-formal-verification)
     
 #### Debugging and Troubleshooting
 
