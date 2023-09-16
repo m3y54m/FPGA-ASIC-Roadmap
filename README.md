@@ -75,10 +75,6 @@ Deep understanding of how CPUs and memory systems work. This can be extended to 
 #### Test and Debugging Techniques
 
 Knowledge of simulation tools, testbenches, and hardware debugging techniques.
-
-#### Scripting Languages
-
-Languages such as TCL, Python, Perl, or Shell scripting are often used to automate tasks in the verification process.
     
 #### Version Control
 
@@ -187,7 +183,11 @@ Including equivalence checking and model checking.
 
 - [Verilog, Formal Verification and Verilator Beginner's Tutorial](https://zipcpu.com/tutorial/)
 - [11 Myths About Formal Verification](https://www.electronicdesign.com/technologies/eda/article/21807132/11-myths-about-formal-verification)
-    
+
+#### Scripting Languages
+
+Languages such as TCL, Python, Perl, or Shell scripting are often used to automate tasks in the verification process.
+
 #### Industry Standards
 
 Familiarity with relevant industry standards can be important, especially in fields like telecommunications or automotive.
@@ -196,4 +196,3 @@ Familiarity with relevant industry standards can be important, especially in fie
 
 Understanding the overall process of design, from specification to synthesis and place-and-route, is helpful in order to interface effectively with the design team.
 
-----------
