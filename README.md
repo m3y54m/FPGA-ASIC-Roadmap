@@ -9,7 +9,7 @@ According to the positive feedback I received for the [Embedded Systems Engineer
 
 ## Contribution
 
-If you are an expert or experienced individual in the field of FPGA and ASIC design, I kindly request your comments and suggestions on this roadmap.
+If you are an expert or experienced individual in the field of FPGA and ASIC design, I kindly request for comments and suggestions on this roadmap.
 
 **What topics should be included in the FPGA / ASIC design roadmap?**
 
@@ -29,15 +29,9 @@ Special thanks to [u/No_Delivery_1049](https://www.reddit.com/user/No_Delivery_1
 - [FPGA 101 - Nandland](https://nandland.com/fpga-101/)
 - [Nandland (YouTube Channel)](https://www.youtube.com/@Nandland)
 - [FPGA 4 Fun](https://www.fpga4fun.com/)
-- [VHDLwhiz - Basic VHDL Tutorials](https://vhdlwhiz.com/basic-vhdl-tutorials/)
-- [VHDLwhiz.com (YouTube Channel)](https://www.youtube.com/@VHDLwhiz)
-- [HDLBits — Verilog Practice](https://hdlbits.01xz.net/wiki/Main_Page)
-- [FPGA designs with Verilog](https://verilogguide.readthedocs.io/en/latest/index.html)
 - [EDA Playground](https://www.edaplayground.com/)
 - [FPGAs for Beginners (YouTube Channel)](https://www.youtube.com/@FPGAsforBeginners)
 - [asic-world.com](https://www.asic-world.com/)
-- [Verilog, Formal Verification and Verilator Beginner's Tutorial](https://zipcpu.com/tutorial/)
-- [controlpaths - Blogs in control and signal processing](https://www.controlpaths.com/)
 - [Learning FPGA, yosys, nextpnr, and RISC-V](https://github.com/BrunoLevy/learn-fpga)
 
 - [Udemy – FPGA Embedded Design, Part 1 - Verilog](https://www.udemy.com/course/fpga-embedded-design-verilog/)
@@ -66,6 +60,11 @@ As an FPGA (Field Programmable Gate Array) implement engineer, there are several
 #### Hardware Description Languages (HDLs):
 
 Knowledge of VHDL and/or Verilog is crucial as they're commonly used to design and describe digital circuits.
+
+- [VHDLwhiz - Basic VHDL Tutorials](https://vhdlwhiz.com/basic-vhdl-tutorials/)
+- [VHDLwhiz.com (YouTube Channel)](https://www.youtube.com/@VHDLwhiz)
+- [HDLBits — Verilog Practice](https://hdlbits.01xz.net/wiki/Main_Page)
+- [FPGA designs with Verilog](https://verilogguide.readthedocs.io/en/latest/index.html)
     
 #### FPGA Design Methodologies:
 
@@ -83,6 +82,7 @@ HLS is a design methodology where the digital system is described in a high-leve
 
 - [High-Level Synthesis Made Easy: Synthesizing Behavioral Descriptions directly into Hardware Circuits](https://www.hlsbook.com/)
 - [High-Level Synthesis Blue Book](https://hlsbluebook.org/)
+- [Vitis HLS — Vitis™ Tutorials](https://xilinx.github.io/Vitis-Tutorials/2021-1/build/html/docs/Getting_Started/Vitis_HLS/Getting_Started_Vitis_HLS.html)
     
 ##### IP Core Based Design
 
@@ -118,10 +118,6 @@ Deep understanding of how CPUs and memory systems work. This can be extended to 
 
 Proficiency in handling setup and hold times, clock domain crossings, and other timing-related issues.
     
-#### High-Level Synthesis (HLS)
-
-Knowledge of HLS tools that convert C/C++ descriptions into HDL code is beneficial.
-    
 #### Embedded Systems
 
 Understanding of embedded system design, including both hardware and software aspects.
@@ -129,6 +125,8 @@ Understanding of embedded system design, including both hardware and software as
 #### Signal Processing
 
 Depending on the application, an understanding of digital signal processing concepts can be very useful.
+
+- [controlpaths - Blogs in control and signal processing](https://www.controlpaths.com/)
     
 #### Power and Thermal Management
 
@@ -183,6 +181,8 @@ This is an industry-standard methodology for verification of hardware designs.
 #### Formal Verification Methods
 
 Including equivalence checking and model checking.
+
+- [Verilog, Formal Verification and Verilator Beginner's Tutorial](https://zipcpu.com/tutorial/)
     
 #### Debugging and Troubleshooting
 
