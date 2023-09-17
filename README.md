@@ -6,7 +6,6 @@ According to the positive feedback I received for the [Embedded Systems Engineer
 
 **⚠️ Disclaimer:** The contents of this repository consist of a collection of information gathered from various sources to create the roadmap. At present, no sorting or filtering has been done on this information. **If you require a complete roadmap now, the contents in this repository might not yet suitable for you.**
 
-
 ## Contribution
 
 If you are an expert or experienced individual in the field of FPGA and ASIC design, I kindly request for comments and suggestions on this roadmap.
@@ -18,10 +17,6 @@ If you are an expert or experienced individual in the field of FPGA and ASIC des
 Feel free to [open an issue](https://github.com/m3y54m/FPGA-ASIC-Roadmap/issues) or [make a pull request](https://github.com/m3y54m/FPGA-ASIC-Roadmap/pulls) and express your ideas.
 
 The first step to building a roadmap is to gather information, categorize it under different titles, and determine the importance of each title. So I started [a discussion about the roadmap](https://www.reddit.com/r/FPGA/comments/15g64oj/fpga_asic_design_roadmap/?utm_source=share&utm_medium=web2x&context=3) on Reddit.
-
-## Acknowledgement
-
-Special thanks to [u/No_Delivery_1049](https://www.reddit.com/user/No_Delivery_1049/) the reddit user who made this [comment](https://www.reddit.com/r/FPGA/comments/15g64oj/comment/juir34n/?utm_source=share&utm_medium=web2x&context=3) that served as the base of this roadmap.
 
 ## Learning Resources
 
@@ -196,3 +191,6 @@ Familiarity with relevant industry standards can be important, especially in fie
 
 Understanding the overall process of design, from specification to synthesis and place-and-route, is helpful in order to interface effectively with the design team.
 
+## Acknowledgement
+
+Special thanks to [u/No_Delivery_1049](https://www.reddit.com/user/No_Delivery_1049/) the reddit user who made this [comment](https://www.reddit.com/r/FPGA/comments/15g64oj/comment/juir34n/?utm_source=share&utm_medium=web2x&context=3) that served as the base of this roadmap.
