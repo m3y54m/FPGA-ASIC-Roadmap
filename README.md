@@ -36,6 +36,7 @@ The first step to building a roadmap is to gather information, categorize it und
   
 - [Doulos - Global Independent Leaders in Design and Verification KnowHow](https://www.doulos.com/)
 - [Home of MicroZed Chronicles, Blogs on AMD, Intel, Lattice FPGA](https://www.adiuvoengineering.com/)
+- [Tiny Tapeout: from idea to chip design in minutes!](https://tinytapeout.com/)
 
   
 ## Projects
