@@ -27,6 +27,7 @@ The first step to building a roadmap is to gather information, categorize it und
 - [EDA Playground](https://www.edaplayground.com/)
 - [FPGAs for Beginners (YouTube Channel)](https://www.youtube.com/@FPGAsforBeginners)
 - [asic-world.com](https://www.asic-world.com/)
+- [Project F - FPGA Tutorials](https://projectf.io/tutorials/)
 - [Learning FPGA, yosys, nextpnr, and RISC-V](https://github.com/BrunoLevy/learn-fpga)
 
 - [Udemy – FPGA Embedded Design, Part 1 - Verilog](https://www.udemy.com/course/fpga-embedded-design-verilog/)
