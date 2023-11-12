@@ -169,10 +169,18 @@ Verification engineers must know how to develop testbenches to simulate and veri
 #### SystemVerilog Assertions and Functional Coverage
 
 These are key for ensuring the design behaves as expected under all conditions, and for making sure all important scenarios are tested.
+
+- [SystemVerilog Tutorial](https://www.asic-world.com/systemverilog/tutorial.html)
+- [SystemVerilog for Verification - Chris Spear , Greg Tumbush](https://link.springer.com/book/10.1007/978-1-4614-0715-7)
     
 #### Universal Verification Methodology (UVM)
 
 This is an industry-standard methodology for verification of hardware designs.
+
+- [UVM (Standard Universal Verification Methodology)](https://www.accellera.org/downloads/standards/uvm)
+- [UVM 1.2 User Guide](http://www.accellera.org/images//downloads/standards/uvm/uvm_users_guide_1.2.pdf)
+- [UVM Guide for Beginners](https://colorlesscube.com/uvm-guide-for-beginners/)
+- [The UVM Primer: A Step-by-Step Introduction to the Universal Verification Methodology - Ray Salemi](https://www.amazon.com/dp/0974164933?_encoding=UTF8&psc=1&ref_=cm_sw_r_cp_ud_dp_SFYBP2WRG9PGJYY6RBEE)
     
 #### Formal Verification Methods
 
@@ -185,14 +193,19 @@ Including equivalence checking and model checking.
 
 Languages such as TCL, Python, Perl, or Shell scripting are often used to automate tasks in the verification process.
 
-#### Industry Standards
+- [Why you need to learn Tcl](https://vhdlwhiz.com/why-you-need-to-learn-tcl/)
+- [Top 10 Tips for efficient Perl Scripting for Chip Designers](https://www.design-reuse.com/articles/20613/perl-scripting-chip-design.html)
+- [The Python for Verification Series](https://verificationacademy.com/news/the-python-for-verification-series)
+- [cocotb, a coroutine based cosimulation library for writing VHDL and Verilog testbenches in Python](https://www.cocotb.org)
 
-Familiarity with relevant industry standards can be important, especially in fields like telecommunications or automotive.
-    
 #### Familiarity with FPGA and ASIC Design Flow
 
 Understanding the overall process of design, from specification to synthesis and place-and-route, is helpful in order to interface effectively with the design team.
 
+#### Industry Standards
+
+Familiarity with relevant industry standards can be important, especially in fields like telecommunications or automotive.
+    
 ## Acknowledgement
 
 Special thanks to [u/No_Delivery_1049](https://www.reddit.com/user/No_Delivery_1049/) the reddit user who made this [comment](https://www.reddit.com/r/FPGA/comments/15g64oj/comment/juir34n/?utm_source=share&utm_medium=web2x&context=3) that served as the base of this roadmap.
