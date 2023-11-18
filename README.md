@@ -1,6 +1,6 @@
 # FPGA / ASIC Engineering Roadmap
 
-**🚧 Under Construction!**
+**🚧 WORK IN PROGRESS!**
 
 According to the positive feedback I received for the [Embedded Systems Engineering Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap) and due to my own interest in FPGA, I want to create a separate roadmap specifically for FPGA design in this repository. 
 
