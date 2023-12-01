@@ -20,6 +20,7 @@ The first step to building a roadmap is to gather information, categorize it und
 
 ## Learning Resources
 
+- [What are FPGAs?](https://hackaday.io/project/27550-the-hobbyists-guide-to-fpgas/log/68114-what-are-fpgas)
 - [Introduction to FPGA - Shawn Hymel (YouTube Playlist)](https://youtube.com/playlist?list=PLEBQazB0HUyT1WmMONxRZn9NmQ_9CIKhb)
 - [FPGA 101 - Nandland](https://nandland.com/fpga-101/)
 - [Nandland (YouTube Channel)](https://www.youtube.com/@Nandland)
@@ -64,19 +65,45 @@ Knowledge of VHDL and/or Verilog is crucial as they're commonly used to design a
 #### Digital System Design
 
 Fundamental concepts in digital system design like logic gates, finite-state machines, and memory architectures.
-    
+
+- [Tiny Tapeout > Digital Design Guide](https://tinytapeout.com/digital_design/)
+- [FPGA Fundamentals - Nandland](https://nandland.com/fpga-101/)
+- [Digital Design - Morris Mano, Michael Ciletti](https://a.co/d/c3tBaoc)
+- [Digital Design and Computer Architecture: ARM Edition -  Sarah Harris, David Harris](https://a.co/d/4otoVvI)
+- [Digital Design and Computer Architecture: RISC-V Edition -  Sarah Harris, David Harris](https://a.co/d/61l7Jtb)
+- [Digital Fundamentals - Thomas L. Floyd](https://a.co/d/2lgJKNX)
+
 #### Computer Architecture
 
 Deep understanding of how CPUs and memory systems work. This can be extended to specialized architectures, such as Graphics Processing Units (GPUs) or custom accelerator designs.
 
+- [Computer Organization and Design: ARM Edition -  David A. Patterson, John L. Hennessy](https://a.co/d/8YPUXG7)
+- [Digital Design and Computer Architecture: ARM Edition -  Sarah Harris, David Harris](https://a.co/d/4otoVvI)
+- [Digital Design and Computer Architecture: RISC-V Edition -  Sarah Harris, David Harris](https://a.co/d/61l7Jtb)
+- [Computer Organization and Embedded Systems -  Carl Hamacher, Zvonko Vranesic, Safwat Zaky, Naraig Manjikian](https://a.co/d/2lt4Svf)
+- [Build an 8-bit computer from scratch](https://eater.net/8bit/)
+
 #### Test and Debugging Techniques
 
 Knowledge of simulation tools, testbenches, and hardware debugging techniques.
+
+- [Debugging with Speed and Precision: Mastering the Art of FPGA Debugging](https://fpgainsights.com/fpga/debugging-with-speed-and-precision-mastering-the-art-of-fpga-debugging/)
     
 #### Version Control
 
 Familiarity with systems like Git or Subversion is important for managing code and tracking changes.
 
+- [Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE)
+- [Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git](https://www.youtube.com/watch?v=Uszj_k0DGsg)
+- [Apache® Subversion®](https://subversion.apache.org/)
+
+#### Familiarity with FPGA and ASIC Design Flow
+
+Understanding the overall process of design, from specification to synthesis and place-and-route, is helpful in order to interface effectively with the design team.
+
+- [A Hands-On Guide to Designing Embedded Systems - Adam Taylor, Dan Binnun, Saket Srivastava](https://www.amazon.com/Hands-Guide-Designing-Embedded-Systems/dp/1630816833)
+- [Understanding FPGA Programming and Design Flow](https://hardwarebee.com/understanding-fpga-programming-and-design-flow/)
+- [ASIC Design Flow in VLSI Engineering Services – A Quick Guide](https://www.einfochips.com/blog/asic-design-flow-in-vlsi-engineering-services-a-quick-guide/)
 
 **Both implementation and verification engineer need to be aware of requirements, architecture and interconnect standards and interfaces.**
 
@@ -197,10 +224,6 @@ Languages such as TCL, Python, Perl, or Shell scripting are often used to automa
 - [Top 10 Tips for efficient Perl Scripting for Chip Designers](https://www.design-reuse.com/articles/20613/perl-scripting-chip-design.html)
 - [The Python for Verification Series](https://verificationacademy.com/news/the-python-for-verification-series)
 - [cocotb, a coroutine based cosimulation library for writing VHDL and Verilog testbenches in Python](https://www.cocotb.org)
-
-#### Familiarity with FPGA and ASIC Design Flow
-
-Understanding the overall process of design, from specification to synthesis and place-and-route, is helpful in order to interface effectively with the design team.
 
 #### Industry Standards
 
