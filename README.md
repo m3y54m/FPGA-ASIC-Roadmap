@@ -33,6 +33,7 @@ The first step to building a roadmap is to gather information, categorize it und
 - [Doulos - Global Independent Leaders in Design and Verification KnowHow](https://www.doulos.com/)
 - [Home of MicroZed Chronicles, Blogs on AMD, Intel, Lattice FPGA](https://www.adiuvoengineering.com/)
 - [Tiny Tapeout: from idea to chip design in minutes!](https://tinytapeout.com/)
+- [Coursera - FPGA Design for Embedded Systems Specialization](https://www.coursera.org/specializations/fpga-design)
 - [Udemy – FPGA Embedded Design, Part 1 - Verilog](https://www.udemy.com/course/fpga-embedded-design-verilog/)
 - [Udemy – FPGA Embedded Design, Part 2 - Basic FPGA Training](https://www.udemy.com/course/fpga-embedded-design-fpgas/)
 - [Udemy – FPGA Embedded Design, Part 3 - EDA Tools](https://www.udemy.com/course/fpga-embedded-design-eda-tools/)
@@ -117,7 +118,9 @@ FPGA design methodologies encompass a broad range of techniques and strategies u
 ##### RTL Design
 
 Register Transfer Level (RTL) design is a method where the digital system is described at a high level in terms of data flow between registers and the logical operations performed on the data. This allows the designer to focus on the logic functionality and data flow, rather than the specifics of how each gate is connected.
-    
+
+- [Understanding RTL Design: Building the Foundation of Digital Systems](https://www.linkedin.com/pulse/understanding-rtl-design-building-foundation-digital-systems-pandey/)
+
 ##### High-Level Synthesis (HLS)
 
 HLS is a design methodology where the digital system is described in a high-level programming language such as C or C++, and then automatically converted into RTL code by an HLS tool. This approach can be faster and easier than writing RTL code directly, especially for complex algorithms.
@@ -129,15 +132,23 @@ HLS is a design methodology where the digital system is described in a high-leve
 ##### IP Core Based Design
 
 IP (Intellectual Property) cores are pre-designed circuit blocks that can be reused in multiple designs. Using IP cores can significantly speed up the design process and improve the reliability of the design, since the IP cores have been pre-verified.
-    
+
+- [Basics of core-based FPGA design](https://www.embedded.com/basics-of-core-based-fpga-design-part-1-core-types-trade-offs/)
+- [IP Cores For FPGA Designs](https://www.electronicsforu.com/electronics-projects/electronics-design-guides/ip-cores-fpga-designs)
+- [So you want to Design a FPGA IP Core!](https://www.hackster.io/adam-taylor/so-you-want-to-design-a-fpga-ip-core-56e0f1)
+
 ##### Hardware-Software Co-Design
 
 In many FPGA applications, a portion of the system functionality is implemented in software running on an embedded processor, while other portions are implemented in custom hardware on the FPGA. Hardware-software co-design involves designing the hardware and software components together to achieve the best overall system performance.
-    
+
+- [Hardware/Software Co-Design: The Five Core Principles](https://www.electronicdesign.com/technologies/eda/article/21267771/recogni-hardwaresoftware-codesign-the-five-core-principles)
+
 ##### Design for Test (DFT)
 
 This is a design methodology where testability features are added to the hardware design to make it easier to test and debug. This might include adding scan chains or built-in self-test (BIST) capabilities.
-    
+
+- [DESIGN FOR TEST](https://www.faststreamtech.com/services/semiconductor-design/design-for-test/)
+
 ##### Timing-Driven Design
 
 This design methodology prioritizes meeting timing constraints. This may involve strategies such as pipelining to increase clock speed, carefully partitioning the design to reduce routing congestion, or using timing constraints files to guide the place-and-route process.
