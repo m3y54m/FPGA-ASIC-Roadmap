@@ -30,16 +30,13 @@ The first step to building a roadmap is to gather information, categorize it und
 - [asic-world.com](https://www.asic-world.com/)
 - [Project F - FPGA Tutorials](https://projectf.io/tutorials/)
 - [Learning FPGA, yosys, nextpnr, and RISC-V](https://github.com/BrunoLevy/learn-fpga)
-
+- [Doulos - Global Independent Leaders in Design and Verification KnowHow](https://www.doulos.com/)
+- [Home of MicroZed Chronicles, Blogs on AMD, Intel, Lattice FPGA](https://www.adiuvoengineering.com/)
+- [Tiny Tapeout: from idea to chip design in minutes!](https://tinytapeout.com/)
 - [Udemy – FPGA Embedded Design, Part 1 - Verilog](https://www.udemy.com/course/fpga-embedded-design-verilog/)
 - [Udemy – FPGA Embedded Design, Part 2 - Basic FPGA Training](https://www.udemy.com/course/fpga-embedded-design-fpgas/)
 - [Udemy – FPGA Embedded Design, Part 3 - EDA Tools](https://www.udemy.com/course/fpga-embedded-design-eda-tools/)
 - [Udemy – FPGA Embedded Design, Part 4 - Microprocessor Design](https://www.udemy.com/course/fpga-embedded-design-cpu/)
-  
-- [Doulos - Global Independent Leaders in Design and Verification KnowHow](https://www.doulos.com/)
-- [Home of MicroZed Chronicles, Blogs on AMD, Intel, Lattice FPGA](https://www.adiuvoengineering.com/)
-- [Tiny Tapeout: from idea to chip design in minutes!](https://tinytapeout.com/)
-
   
 ## Projects
 
@@ -47,7 +44,6 @@ The first step to building a roadmap is to gather information, categorize it und
 - [AMD Based FPGA Projects - Adam Taylor](https://www.hackster.io/adam-taylor)
 - [RISC-V Single Cycle Core in Verilog](https://www.youtube.com/playlist?list=PL5AmAh9QoSK7Fwk9vOJu-3VqBng_HjGFc)
 - [SPI Project in FPGA - Ambient Light Sensor](https://youtube.com/playlist?list=PLnAoag7Ew-vq5kOyfyNN50xL718AtLoCQ)
-
 
 ## Roadmap
 
@@ -80,7 +76,6 @@ Deep understanding of how CPUs and memory systems work. This can be extended to 
 - [Computer Organization and Design: ARM Edition -  David A. Patterson, John L. Hennessy](https://a.co/d/8YPUXG7)
 - [Digital Design and Computer Architecture: ARM Edition -  Sarah Harris, David Harris](https://a.co/d/4otoVvI)
 - [Digital Design and Computer Architecture: RISC-V Edition -  Sarah Harris, David Harris](https://a.co/d/61l7Jtb)
-- [Computer Organization and Embedded Systems -  Carl Hamacher, Zvonko Vranesic, Safwat Zaky, Naraig Manjikian](https://a.co/d/2lt4Svf)
 - [Build an 8-bit computer from scratch](https://eater.net/8bit/)
 
 #### Test and Debugging Techniques
