@@ -195,16 +195,20 @@ The other side of the coin is the verification engineer they play a crucial role
 #### Hardware Verification Languages (HVLs)
 
 These include SystemVerilog, which is commonly used for hardware verification, and others like Property Specification Language (PSL).
+
+- [SystemVerilog Tutorial](https://www.asic-world.com/systemverilog/tutorial.html)
+- [Property Specification Language Tutorial](https://www.project-veripage.com/psl_tutorial_1.php)
     
 #### Testbench Creation
 
 Verification engineers must know how to develop testbenches to simulate and verify the functionality and performance of a design.
+
+- [SystemVerilog TestBench](https://www.chipverify.com/systemverilog/systemverilog-simple-testbench)
     
 #### SystemVerilog Assertions and Functional Coverage
 
 These are key for ensuring the design behaves as expected under all conditions, and for making sure all important scenarios are tested.
 
-- [SystemVerilog Tutorial](https://www.asic-world.com/systemverilog/tutorial.html)
 - [SystemVerilog for Verification - Chris Spear , Greg Tumbush](https://link.springer.com/book/10.1007/978-1-4614-0715-7)
     
 #### Universal Verification Methodology (UVM)
