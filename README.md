@@ -2,22 +2,10 @@
 
 **🚧 WORK IN PROGRESS!**
 
-According to the positive feedback I received for the [Embedded Systems Engineering Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap) and due to my own interest in FPGA, I want to create a separate roadmap specifically for FPGA design in this repository. 
+According to the positive feedback I received for the [Embedded Systems Engineering Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap) and due to my own interest in FPGA, I decided to create a separate roadmap specifically for FPGA design in this repository. 
 
 > [!WARNING]  
-> The contents in this repository are gathered from various sources to create a roadmap. At present, no sorting or filtering has been done on this information. **If you require a comprehensive roadmap right now, the contents in this repository might not yet suitable for you.**
-
-## Contribution
-
-If you are an expert or experienced individual in the field of FPGA and ASIC design, I kindly request for comments and suggestions on this roadmap.
-
-**What topics should be included in the FPGA / ASIC design roadmap?**
-
-**What are the best resources you know to learn each topic in the roadmap?**
-
-Feel free to [open an issue](https://github.com/m3y54m/FPGA-ASIC-Roadmap/issues) or [make a pull request](https://github.com/m3y54m/FPGA-ASIC-Roadmap/pulls) and express your ideas.
-
-The first step to building a roadmap is to gather information, categorize it under different titles, and determine the importance of each title. So I started [a discussion about the roadmap](https://www.reddit.com/r/FPGA/comments/15g64oj/fpga_asic_design_roadmap/?utm_source=share&utm_medium=web2x&context=3) on Reddit.
+> The contents in this repository are gathered from various sources to create a roadmap. At present, no sorting or filtering has been done on this information. **If you require a comprehensive roadmap right now, the contents in this repository might not yet be suitable for you.**
 
 ## Learning Resources
 
@@ -239,7 +227,19 @@ Languages such as TCL, Python, Perl, or Shell scripting are often used to automa
 #### Industry Standards
 
 Familiarity with relevant industry standards can be important, especially in fields like telecommunications or automotive.
-    
+
+## Contribution
+
+If you are an expert or experienced individual in the field of FPGA and ASIC design, I kindly request for comments and suggestions on this roadmap.
+
+**What topics should be included in the FPGA / ASIC design roadmap?**
+
+**What are the best resources you know to learn each topic in the roadmap?**
+
+Feel free to [open an issue](https://github.com/m3y54m/FPGA-ASIC-Roadmap/issues) or [make a pull request](https://github.com/m3y54m/FPGA-ASIC-Roadmap/pulls) and express your ideas.
+
+The first step to building a roadmap is to gather information, categorize it under different titles, and determine the importance of each title. So I started [a discussion about the roadmap](https://www.reddit.com/r/FPGA/comments/15g64oj/fpga_asic_design_roadmap/?utm_source=share&utm_medium=web2x&context=3) on Reddit.
+
 ## Acknowledgement
 
 Special thanks to [u/No_Delivery_1049](https://www.reddit.com/user/No_Delivery_1049/) the reddit user who made this [comment](https://www.reddit.com/r/FPGA/comments/15g64oj/comment/juir34n/?utm_source=share&utm_medium=web2x&context=3) that served as the base of this roadmap.
