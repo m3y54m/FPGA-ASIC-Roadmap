@@ -37,6 +37,16 @@ According to the positive feedback I received for the [Embedded Systems Engineer
 
 ## Roadmap
 
+The world of FPGA engineering thrives on two crucial disciplines: **Implementation Engineering** and **Verification Engineering**. While intertwined, each plays a distinct role in bringing innovative ideas to life on programmable hardware.
+
+**Implementation Engineers** are the architects of the FPGA, meticulously crafting the design by translating algorithms and functionalities into hardware configurations. They leverage their expertise in *hardware description languages* and *synthesis tools* to optimize design performance and resource utilization.
+
+**Verification Engineers**, on the other hand, safeguard the design's integrity. They design and execute comprehensive *test strategies*, utilizing advanced *simulation tools* and real-world test setups. By comparing expected behavior with actual outputs, they identify and eliminate errors, ensuring the final product functions as intended.
+
+Both disciplines are equally critical, working hand-in-hand throughout the development process. Implementation engineers rely on verification feedback to refine their designs, while verification engineers depend on accurate implementation models to create effective tests.
+
+Commons skills and specialized expertise needed in these disciplines are mentioned below:
+
 ### Common Skills
 
 #### Hardware Description Languages (HDLs):
