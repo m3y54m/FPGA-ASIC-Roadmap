@@ -7,33 +7,58 @@ According to the positive feedback I received for the [Embedded Systems Engineer
 > [!WARNING]  
 > The contents in this repository are gathered from various sources to create a roadmap. At present, no sorting or filtering has been done on this information. **If you require a comprehensive roadmap right now, the contents in this repository might not yet be suitable for you.**
 
+> [!TIP]  
+> To differentiate between the types of learning resources and the quality of their content, specific symbols are used before each item.
+>
+> **Resource types:**
+> - 📘 : Books
+> - 🎞️ : Videos
+> - 📝 : Write-ups, articles, and blog posts
+> - 🔗 : Other links that do not fit into any of the above categories
+>
+> **Content quality symbols:**
+> - 👶 : Easy-to-understand and beginner-friendly resources. Refer to them if you do not have prior knowledge in a topic.
+> - 💎 : Well-known references that have truly invaluable and comprehensive content. Refer to them if you want to deepen your understanding of a topic.
+
+
 ## Learning Resources
 
-- [What are FPGAs?](https://hackaday.io/project/27550-the-hobbyists-guide-to-fpgas/log/68114-what-are-fpgas)
-- [Introduction to FPGA - Shawn Hymel (YouTube Playlist)](https://youtube.com/playlist?list=PLEBQazB0HUyT1WmMONxRZn9NmQ_9CIKhb)
-- [FPGA 101 - Nandland](https://nandland.com/fpga-101/)
-- [Nandland (YouTube Channel)](https://www.youtube.com/@Nandland)
-- [FPGA 4 Fun](https://www.fpga4fun.com/)
-- [EDA Playground](https://www.edaplayground.com/)
-- [FPGAs for Beginners (YouTube Channel)](https://www.youtube.com/@FPGAsforBeginners)
-- [asic-world.com](https://www.asic-world.com/)
-- [Project F - FPGA Tutorials](https://projectf.io/tutorials/)
-- [Learning FPGA, yosys, nextpnr, and RISC-V](https://github.com/BrunoLevy/learn-fpga)
-- [Doulos - Global Independent Leaders in Design and Verification KnowHow](https://www.doulos.com/)
-- [Home of MicroZed Chronicles, Blogs on AMD, Intel, Lattice FPGA](https://www.adiuvoengineering.com/)
-- [Tiny Tapeout: from idea to chip design in minutes!](https://tinytapeout.com/)
-- [Coursera - FPGA Design for Embedded Systems Specialization](https://www.coursera.org/specializations/fpga-design)
-- [Udemy – FPGA Embedded Design, Part 1 - Verilog](https://www.udemy.com/course/fpga-embedded-design-verilog/)
-- [Udemy – FPGA Embedded Design, Part 2 - Basic FPGA Training](https://www.udemy.com/course/fpga-embedded-design-fpgas/)
-- [Udemy – FPGA Embedded Design, Part 3 - EDA Tools](https://www.udemy.com/course/fpga-embedded-design-eda-tools/)
-- [Udemy – FPGA Embedded Design, Part 4 - Microprocessor Design](https://www.udemy.com/course/fpga-embedded-design-cpu/)
-  
+- [📝👶 What are FPGAs?](https://hackaday.io/project/27550-the-hobbyists-guide-to-fpgas/log/68114-what-are-fpgas)
+- [🎞️👶 Introduction to FPGA - Shawn Hymel (YouTube Playlist)](https://youtube.com/playlist?list=PLEBQazB0HUyT1WmMONxRZn9NmQ_9CIKhb)
+- [🔗👶 FPGA 101 - Nandland](https://nandland.com/fpga-101/)
+- [🎞️ Nandland (YouTube Channel)](https://www.youtube.com/@Nandland)
+- [🎞️👶 FPGAs for Beginners (YouTube Channel)](https://www.youtube.com/@FPGAsforBeginners)
+- [🔗 asic-world.com](https://www.asic-world.com/)
+- [📝👶💎 Project F - FPGA Tutorials](https://projectf.io/tutorials/)
+- [🔗💎 Tiny Tapeout: from idea to chip design in minutes!](https://tinytapeout.com/)
+- [📝💎 Learning FPGA, yosys, nextpnr, and RISC-V](https://github.com/BrunoLevy/learn-fpga)
+- [🔗💎 Doulos - Global Independent Leaders in Design and Verification KnowHow](https://www.doulos.com/)
+- [🎞️ Coursera - FPGA Design for Embedded Systems Specialization](https://www.coursera.org/specializations/fpga-design)
+- [🎞️ Udemy – FPGA Embedded Design, Part 1 - Verilog](https://www.udemy.com/course/fpga-embedded-design-verilog/)
+- [🎞️ Udemy – FPGA Embedded Design, Part 2 - Basic FPGA Training](https://www.udemy.com/course/fpga-embedded-design-fpgas/)
+- [🎞️ Udemy – FPGA Embedded Design, Part 3 - EDA Tools](https://www.udemy.com/course/fpga-embedded-design-eda-tools/)
+- [🎞️ Udemy – FPGA Embedded Design, Part 4 - Microprocessor Design](https://www.udemy.com/course/fpga-embedded-design-cpu/)
+
+## EDA Tools
+
+- [🔗 EDA Playground](https://www.edaplayground.com/)
+- [🔗 Yosys Open SYnthesis Suite](https://github.com/YosysHQ/yosys)
+- [🔗 GHDL - an open-source simulator for the VHDL language](https://github.com/ghdl/ghdl)
+- [🔗 GTKWave - a fully featured GTK+ based wave viewer](https://github.com/gtkwave/gtkwave)
+- [🔗 ModelSim HDL simulator](https://www.intel.com/content/www/us/en/software-kit/750666/modelsim-intel-fpgas-standard-edition-software-version-20-1-1.html)
+- [🔗 ADM (Xilinx) Design Tools](https://www.xilinx.com/products/design-tools.html)
+- [🔗 Intel (Altera) Development Tools](https://www.intel.com/content/www/us/en/products/details/fpga/development-tools.html)
+- [🔗 Lattice FPGA Design Software](https://www.latticesemi.com/Products/DesignSoftwareAndIP)
+- [🔗 Cadence Design Tools](https://www.cadence.com/en_US/home/tools.html)
+- [🔗 Synopsys Design Tools](https://www.synopsys.com/implementation-and-signoff.html)
+
 ## Projects
 
-- [AMD Based FPGA Projects - Whitney Knitter](https://hackster.io/whitney-knitter)
-- [AMD Based FPGA Projects - Adam Taylor](https://www.hackster.io/adam-taylor)
-- [RISC-V Single Cycle Core in Verilog](https://www.youtube.com/playlist?list=PL5AmAh9QoSK7Fwk9vOJu-3VqBng_HjGFc)
-- [SPI Project in FPGA - Ambient Light Sensor](https://youtube.com/playlist?list=PLnAoag7Ew-vq5kOyfyNN50xL718AtLoCQ)
+- [🔗 FPGA 4 Fun](https://www.fpga4fun.com/)
+- [🔗 AMD Based FPGA Projects - Whitney Knitter](https://hackster.io/whitney-knitter)
+- [🔗 AMD Based FPGA Projects - Adam Taylor](https://www.hackster.io/adam-taylor)
+- [🎞️ RISC-V Single Cycle Core in Verilog](https://www.youtube.com/playlist?list=PL5AmAh9QoSK7Fwk9vOJu-3VqBng_HjGFc)
+- [🎞️ SPI Project in FPGA - Ambient Light Sensor](https://youtube.com/playlist?list=PLnAoag7Ew-vq5kOyfyNN50xL718AtLoCQ)
 
 ## Roadmap
 
