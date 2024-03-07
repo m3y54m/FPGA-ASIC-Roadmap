@@ -46,7 +46,7 @@ According to the positive feedback I received for the [Embedded Systems Engineer
 - [🔗 GHDL - an open-source simulator for the VHDL language](https://github.com/ghdl/ghdl)
 - [🔗 GTKWave - a fully featured GTK+ based wave viewer](https://github.com/gtkwave/gtkwave)
 - [🔗 ModelSim HDL simulator](https://www.intel.com/content/www/us/en/software-kit/750666/modelsim-intel-fpgas-standard-edition-software-version-20-1-1.html)
-- [🔗 ADM (Xilinx) Design Tools](https://www.xilinx.com/products/design-tools.html)
+- [🔗 AMD (Xilinx) Design Tools](https://www.xilinx.com/products/design-tools.html)
 - [🔗 Intel (Altera) Development Tools](https://www.intel.com/content/www/us/en/products/details/fpga/development-tools.html)
 - [🔗 Lattice FPGA Design Software](https://www.latticesemi.com/Products/DesignSoftwareAndIP)
 - [🔗 Cadence Design Tools](https://www.cadence.com/en_US/home/tools.html)
