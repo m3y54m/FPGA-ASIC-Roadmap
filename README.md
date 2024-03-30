@@ -39,19 +39,6 @@ According to the positive feedback I received for the [Embedded Systems Engineer
 - [🎞️ Udemy – FPGA Embedded Design, Part 3 - EDA Tools](https://www.udemy.com/course/fpga-embedded-design-eda-tools/)
 - [🎞️ Udemy – FPGA Embedded Design, Part 4 - Microprocessor Design](https://www.udemy.com/course/fpga-embedded-design-cpu/)
 
-## EDA Tools
-
-- [🔗 EDA Playground](https://www.edaplayground.com/)
-- [🔗 Yosys Open SYnthesis Suite](https://github.com/YosysHQ/yosys)
-- [🔗 GHDL - an open-source simulator for the VHDL language](https://github.com/ghdl/ghdl)
-- [🔗 GTKWave - a fully featured GTK+ based wave viewer](https://github.com/gtkwave/gtkwave)
-- [🔗 ModelSim HDL simulator](https://www.intel.com/content/www/us/en/software-kit/750666/modelsim-intel-fpgas-standard-edition-software-version-20-1-1.html)
-- [🔗 AMD (Xilinx) Design Tools](https://www.xilinx.com/products/design-tools.html)
-- [🔗 Intel (Altera) Development Tools](https://www.intel.com/content/www/us/en/products/details/fpga/development-tools.html)
-- [🔗 Lattice FPGA Design Software](https://www.latticesemi.com/Products/DesignSoftwareAndIP)
-- [🔗 Cadence Design Tools](https://www.cadence.com/en_US/home/tools.html)
-- [🔗 Synopsys Design Tools](https://www.synopsys.com/implementation-and-signoff.html)
-
 ## Projects
 
 - [🔗 FPGA 4 Fun](https://www.fpga4fun.com/)
@@ -190,12 +177,22 @@ Proficiency in handling setup and hold times, clock domain crossings, and other 
 #### 🔵 Embedded Systems
 
 Understanding of embedded system design, including both hardware and software aspects.
+
+- [🔗 Embedded Systems Engineering Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap)
     
-#### 🔵 Signal Processing
+#### 🔵 Digital Signal Processing
 
 Depending on the application, an understanding of digital signal processing concepts can be very useful.
 
+- [📘💎 The Scientist and Engineer's Guide to Digital Signal Processing - Steven W. Smith](https://www.dspguide.com/pdfbook.htm)
 - [🔗 controlpaths - Blogs in control and signal processing](https://www.controlpaths.com/)
+- [🎞️ Digital Signal Processing (ECSE-4530) Lectures, Fall 2014 (YouTube Playlist)](https://youtube.com/playlist?list=PLuh62Q4Sv7BUSzx5Jr8Wrxxn-U10qG1et)
+- [📘 Real-Time Digital Signal Processing: Fundamentals, Implementations and Applications - Sen M. Kuo, Bob H. Lee, Wenshun Tian](https://www.wiley.com/en-us/Real+Time+Digital+Signal+Processing%3A+Fundamentals%2C+Implementations+and+Applications%2C+3rd+Edition-p-9781118414323)
+- [📘 Schaum's Outline of Signals and Systems - Hwei P. Hsu](https://www.mhprofessional.com/schaum-s-outline-of-signals-and-systems-fourth-edition-9781260454246-usa)
+- [📘💎 Digital Signal Processing - John G. Proakis, Dimitris K. Manolakis](https://a.co/d/75P5PiE)
+- [🎞️ Discrete Fourier Transform - Simple Step by Step](https://www.youtube.com/watch?v=mkGsMWi_j4Q)
+- [🎞️ The Fast Fourier Transform (FFT): Most Ingenious Algorithm Ever?](https://youtu.be/h7apO7q16V0)
+- [🎞️ The FFT Algorithm - Simple Step by Step](https://www.youtube.com/watch?v=htCj9exbGo0)
     
 #### 🔵 Power and Thermal Management
 
@@ -208,6 +205,17 @@ Including proficiency in languages such as C/C++, Python, and knowing how to wor
 #### 🔵 FPGA Toolchain
 
 Understanding of specific FPGA toolchains like Xilinx Vivado, Intel Quartus, etc.
+
+- [🔗 EDA Playground](https://www.edaplayground.com/)
+- [🔗 Yosys Open SYnthesis Suite](https://github.com/YosysHQ/yosys)
+- [🔗 GHDL - an open-source simulator for the VHDL language](https://github.com/ghdl/ghdl)
+- [🔗 GTKWave - a fully featured GTK+ based wave viewer](https://github.com/gtkwave/gtkwave)
+- [🔗 ModelSim HDL simulator](https://www.intel.com/content/www/us/en/software-kit/750666/modelsim-intel-fpgas-standard-edition-software-version-20-1-1.html)
+- [🔗 AMD (Xilinx) Design Tools](https://www.xilinx.com/products/design-tools.html)
+- [🔗 Intel (Altera) Development Tools](https://www.intel.com/content/www/us/en/products/details/fpga/development-tools.html)
+- [🔗 Lattice FPGA Design Software](https://www.latticesemi.com/Products/DesignSoftwareAndIP)
+- [🔗 Cadence Design Tools](https://www.cadence.com/en_US/home/tools.html)
+- [🔗 Synopsys Design Tools](https://www.synopsys.com/implementation-and-signoff.html)
 
 ----------
 
