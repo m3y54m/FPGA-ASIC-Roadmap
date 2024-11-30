@@ -38,6 +38,7 @@ According to the positive feedback I received for the [Embedded Systems Engineer
 - [🎞️ Udemy – FPGA Embedded Design, Part 2 - Basic FPGA Training](https://www.udemy.com/course/fpga-embedded-design-fpgas/)
 - [🎞️ Udemy – FPGA Embedded Design, Part 3 - EDA Tools](https://www.udemy.com/course/fpga-embedded-design-eda-tools/)
 - [🎞️ Udemy – FPGA Embedded Design, Part 4 - Microprocessor Design](https://www.udemy.com/course/fpga-embedded-design-cpu/)
+- [🔗👶 FPGA 4 Students](https://www.fpga4student.com/)
 
 ## Projects
 
