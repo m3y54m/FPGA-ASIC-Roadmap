@@ -64,6 +64,9 @@ According to the positive feedback I received for the [Embedded Systems Engineer
 - [🎞️ YouTube Playlist - Basic Computer Architecture](https://www.youtube.com/playlist?list=PL1iLu2CSC9EWAo0ysorNI_nebwF6Rwkr0)
 - [🎞️ YouTube Playlist - Hardware Modeling using Verilog](https://www.youtube.com/playlist?list=PLJ5C_6qdAvBELELTSPgzYkQg3HgclQh-5)
 - [🎞️ YouTube Playlist - Microprocessors and Microcontrollers](https://www.youtube.com/playlist?list=PLuv3GM6-gsE01L9yDO0e5UhQapkCPGnY3)
+- [🔗 MakerCode](https://makercode.jixiao-ai.com/)
+- [🔗 Logi-Code](https://logi-code.com/)
+- [🔗 Sistenix](https://sistenix.com/)
 
 ## Projects
 
@@ -77,6 +80,7 @@ According to the positive feedback I received for the [Embedded Systems Engineer
 - [🎞️ RISC-V Single Cycle Core in Verilog](https://www.youtube.com/playlist?list=PL5AmAh9QoSK7Fwk9vOJu-3VqBng_HjGFc)
 - [🎞️ SPI Project in FPGA - Ambient Light Sensor](https://youtube.com/playlist?list=PLnAoag7Ew-vq5kOyfyNN50xL718AtLoCQ)
 - [🔗 FPGA Conway](https://github.com/AdaMahdavi/FPGA-Conway)
+- [🔗 Verilaxi](https://github.com/nelsoncsc/verilaxi)
 
 ## Roadmap
 
@@ -100,6 +104,7 @@ Knowledge of VHDL and/or Verilog is crucial as they're commonly used to design a
 - [🎞️ VHDLwhiz.com (YouTube Channel)](https://www.youtube.com/@VHDLwhiz)
 - [📝 HDLBits — Verilog Practice](https://hdlbits.01xz.net/wiki/Main_Page)
 - [📝 FPGA designs with Verilog](https://verilogguide.readthedocs.io/en/latest/index.html)
+- [🔗 Veryl](https://github.com/veryl-lang/veryl)
 
 #### 🔵 Digital System Design
 
@@ -111,6 +116,7 @@ Fundamental concepts in digital system design like logic gates, finite-state mac
 - [📘 Digital Design and Computer Architecture: ARM Edition -  Sarah Harris, David Harris](https://a.co/d/4otoVvI)
 - [📘 Digital Design and Computer Architecture: RISC-V Edition -  Sarah Harris, David Harris](https://a.co/d/61l7Jtb)
 - [📘 Digital Fundamentals - Thomas L. Floyd](https://a.co/d/2lgJKNX)
+- [🔗 IC Design Tips](https://www.icdesigntips.com/)
 
 #### 🔵 Pipeline Design and Flow Control (Skid Buffer / FIFO for Pipeline)
 
@@ -311,7 +317,9 @@ This is an industry-standard methodology for verification of hardware designs.
 Including equivalence checking and model checking.
 
 - [📝 Verilog, Formal Verification and Verilator Beginner's Tutorial](https://zipcpu.com/tutorial/)
+- [🔗 Verible](https://github.com/chipsalliance/verible)
 - [📝 11 Myths About Formal Verification](https://www.electronicdesign.com/technologies/eda/article/21807132/11-myths-about-formal-verification)
+- [📝 Verilator Direct Programming Interface](https://verilator.org/guide/latest/connecting.html#direct-programming-interface-dpi)
 
 #### 🔵 Scripting Languages
 
