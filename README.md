@@ -76,7 +76,7 @@ A general collection of courses, tutorials, books and websites to get started. R
 - [🎞️ Udemy – FPGA Embedded Design, Part 4 - Microprocessor Design](https://www.udemy.com/course/fpga-embedded-design-cpu/)
 - [🔗👶 FPGA 4 Students](https://www.fpga4student.com/)
 - [🔗👶 Access an FPGA right now!](https://ps1.fpgas.online/fpgas/)
-- [📝 Designing a Custom AXI Slave (Avnet PDF)](https://www.avnet.com/wcm/connect/557e3453-20d7-4737-b2a8-8afc404dc81e/designing_a_custom_axi_slave_rev1.pdf?MOD=AJPERES&ContentCache=NONE&CACHE=NONE&CVID=picU33N)
+- [📝 Designing a Custom AXI Slave (Avnet PDF)](https://github.com/Architech-Silica/Designing-a-Custom-AXI-Slave-Peripheral/blob/master/designing_a_custom_axi_slave_rev1.pdf)
 - [🔗💎 Computation Structures](https://computationstructures.org/index.html)
 - [🎞️ YouTube Playlist - CMOS Digital VLSI Design](https://www.youtube.com/playlist?list=PLLy_2iUCG87Bdulp9brz9AcvW_TnFCUmM)
 - [🎞️ YouTube Playlist - Basic Computer Architecture](https://www.youtube.com/playlist?list=PL1iLu2CSC9EWAo0ysorNI_nebwF6Rwkr0)
@@ -221,7 +221,7 @@ Writing code that synthesizes into the hardware you intend: registers versus lat
 
 - [📝👶 Verilog Blocking and Non-Blocking Statements - ChipVerify](https://www.chipverify.com/verilog/verilog-blocking-non-blocking-statements)
 - [📝💎 Nonblocking Assignments in Verilog Synthesis, Coding Styles That Kill! - Clifford E. Cummings](http://www.sunburst-design.com/papers/CummingsSNUG2000SJ_NBA.pdf)
-- [📝👶 Verilog Finite State Machine - ChipVerify](https://www.chipverify.com/verilog/verilog-finite-state-machine)
+- [📝👶 Verilog Finite State Machine - ChipVerify](https://www.chipverify.com/verilog/verilog-fsm)
 - [📝 Verilog Coding Style Guide - lowRISC](https://github.com/lowRISC/style-guides/blob/master/VerilogCodingStyle.md)
 - [📝👶 Fixed Point Numbers in Verilog - Project F](https://projectf.io/posts/fixed-point-numbers-in-verilog/)
 - [📝 CORDIC - ZipCPU](https://zipcpu.com/dsp/2017/08/30/cordic.html)
@@ -334,7 +334,7 @@ Real designs talk to other chips and blocks. Start with simple serial protocols 
 - [📝👶 RS-232 (UART) Serial Interface - FPGA4fun](https://www.fpga4fun.com/SerialInterface.html)
 - [📝👶 SPI - FPGA4fun](https://www.fpga4fun.com/SPI.html)
 - [📝 Building a Simple AXI-Lite Slave - ZipCPU](https://zipcpu.com/blog/2020/03/08/easyaxil.html)
-- [📝 Designing a Custom AXI Slave (Avnet PDF)](https://www.avnet.com/wcm/connect/557e3453-20d7-4737-b2a8-8afc404dc81e/designing_a_custom_axi_slave_rev1.pdf?MOD=AJPERES&ContentCache=NONE&CACHE=NONE&CVID=picU33N)
+- [📝 Designing a Custom AXI Slave (Avnet PDF)](https://github.com/Architech-Silica/Designing-a-Custom-AXI-Slave-Peripheral/blob/master/designing_a_custom_axi_slave_rev1.pdf)
 - [🔗 AMBA AXI Protocol Specification - Arm](https://developer.arm.com/documentation/ihi0022/)
 - [🔗 Wishbone B3 Specification](https://wishbone-interconnect.readthedocs.io/)
 - [🔗 LiteDRAM - Small footprint and configurable DRAM core](https://github.com/enjoy-digital/litedram)
@@ -376,7 +376,7 @@ Register Transfer Level (RTL) design is a method where the digital system is des
 HLS is a design methodology where the digital system is described in a high-level programming language such as C or C++, and then automatically converted into RTL code by an HLS tool. This approach can be faster and easier than writing RTL code directly, especially for complex algorithms. It is an advanced topic; learn RTL first.
 
 - [📘 High-Level Synthesis Made Easy: Synthesizing Behavioral Descriptions directly into Hardware Circuits](https://www.hlsbook.com/)
-- [📘 High-Level Synthesis Blue Book](https://hlsbluebook.org/)
+- [📘 High-Level Synthesis Blue Book - Michael Fingeroff](https://resources.sw.siemens.com/en-US/e-book-high-level-synthesis-hls-blue-book/)
 - [🔗 Vitis HLS — Vitis™ Tutorials](https://xilinx.github.io/Vitis-Tutorials/2021-1/build/html/docs/Getting_Started/Vitis_HLS/Getting_Started_Vitis_HLS.html)
 
 ##### 🔶 IP Core Based Design
@@ -495,7 +495,7 @@ These include SystemVerilog, which is commonly used for hardware verification, a
 - [📝 SystemVerilog.io](https://www.systemverilog.io/)
 - [📝 Sv-lang](https://sv-lang.com/index.html)
 - [📝 VLSI Verify](https://vlsiverify.com/)
-- [📝 Property Specification Language Tutorial](https://www.project-veripage.com/psl_tutorial_1.php)
+- [📝 Property Specification Language (PSL) - Wikipedia](https://en.wikipedia.org/wiki/Property_Specification_Language)
 
 #### 🔵 Testbench Creation
 

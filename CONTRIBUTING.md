@@ -27,3 +27,4 @@ Resources are list items under the most relevant heading:
 - Put each resource under the most relevant topic of the Roadmap. Topics are ordered by learning sequence and tagged **Required**, **Recommended** or **Optional**; if you propose a new topic, suggest where it fits in the order and which priority it deserves.
 - Do not add the same link twice within the same section.
 - Run `npx markdownlint-cli --config .markdownlint.json README.md` before opening a pull request; CI runs the same check.
+- A weekly "Link check" workflow (and every pull request touching Markdown) verifies that all links work. Sites that block bots can be excluded in `.github/lychee.toml`.

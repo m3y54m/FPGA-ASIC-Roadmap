@@ -1,0 +1,21 @@
+# Many sites in the README (Reddit, Nandland, Digilent, Arm, ...) answer bots with 403/429 while
+# working fine in a browser, and some redirect to consent pages, so these count as alive.
+accept = ["200..=399", "403", "429"]
+
+exclude = [
+  # Bot challenges or non-standard codes for every request.
+  '^https?://(www\.)?amazon\.',
+  '^https?://a\.co/',
+  '^https?://(www\.)?linkedin\.com/',
+  '^https?://(www\.)?reddit\.com/',
+  # Return 404 to non-browser clients although the pages exist.
+  '^https?://(www\.)?embedded\.com/',
+  # Repository badge links; GitHub hides these pages from anonymous clients.
+  '^https://github\.com/m3y54m/FPGA-ASIC-Roadmap/(stargazers|watchers|forks|graphs|releases)',
+]
+
+max_retries = 3
+retry_wait_time = 5
+timeout = 60
+max_concurrency = 8
+user_agent = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
