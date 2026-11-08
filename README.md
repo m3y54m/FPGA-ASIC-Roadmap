@@ -452,6 +452,24 @@ When a design moves from a development board to custom hardware, you need to und
 - [📝 7 Series FPGAs Configuration User Guide (UG470)](https://docs.amd.com/v/u/en-US/ug470_7Series_Config)
 - [📝 UltraScale Architecture PCB Design User Guide (UG583)](https://docs.amd.com/r/en-US/ug583-ultrascale-pcb-design)
 
+#### 🔵 FPGA Bitstream Documentation and Open Toolchains
+
+**Priority: Optional (advanced)**
+
+FPGA vendors do not publish the format of the bitstream (the file that configures the chip). Open-source projects document it by generating many small designs with vendor tools and analyzing how each change affects the bitstream (*fuzzing*), then store the result in a database used by open synthesis and place-and-route tools. This is advanced work that needs solid knowledge of FPGA architecture, the toolchain and scripting (Python, Tcl) first. The usual learning path is: master FPGA Architecture and the FPGA Toolchain, run the open-source flow on a supported board, then read the documentation of a project such as Project X-Ray (Xilinx 7 Series) and reproduce its fuzzers. Check the license and terms of use of the vendor tools you analyze.
+
+- [📝💎 Project X-Ray - Documenting the Xilinx 7-series bitstream format](https://prjxray.readthedocs.io/en/latest/)
+- [🔗 Project X-Ray - Source code and fuzzers](https://github.com/f4pga/prjxray)
+- [🔗 Project X-Ray Database - Bitstream documentation for Xilinx 7 Series](https://github.com/f4pga/prjxray-db)
+- [🔗 nextpnr-xilinx - Place and route for Xilinx 7 Series using Project X-Ray](https://github.com/gatecat/nextpnr-xilinx)
+- [🔗 openXC7 - Open-source toolchain for Xilinx 7 Series](https://github.com/openXC7/toolchain-installer)
+- [🔗 Project IceStorm - Documenting the Lattice iCE40 bitstream](https://clifford.at/icestorm/)
+- [🔗 Project Trellis - Documenting the Lattice ECP5 bitstream](https://prjtrellis.readthedocs.io/)
+- [🔗 Apicula - Open-source tools for Gowin FPGAs](https://github.com/YosysHQ/apicula)
+- [🔗 Mistral - Documenting the Intel Cyclone V bitstream](https://github.com/Ravenslofty/mistral)
+- [🔗 F4PGA - Open-source FPGA toolchain project](https://github.com/chipsalliance/f4pga)
+- [🔗 RapidWright - Framework for building custom tools on top of AMD Vivado](https://www.rapidwright.io/)
+
 #### 🔵 Software Development Skills
 
 **Priority: Recommended**
